@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/18/trunk
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/18/trunk/LICENSE.txt
+END
+HTMDMissingDrawer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/HTMDMissingDrawer.h
+END
+MissingDrawer_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/MissingDrawer_Prefix.pch
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/Info.plist
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10/trunk/.gitignore
+END
+HTMDSidebarBorderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/HTMDSidebarBorderView.h
+END
+HTMDMissingDrawer.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/HTMDMissingDrawer.m
+END
+HTMDResizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/HTMDResizer.h
+END
+MissingDrawer.tmproj
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/MissingDrawer.tmproj
+END
+HTMDSplitView.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/HTMDSplitView.h
+END
+HTMDSidebarBorderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/16/trunk/HTMDSidebarBorderView.m
+END
+HTMDResizer.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/HTMDResizer.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/18/trunk/README.txt
+END
+HTMDSplitView.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/HTMDSplitView.m
+END
