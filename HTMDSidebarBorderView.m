@@ -138,6 +138,7 @@ int HTMDSidebarBorderViewSortViewX(id viewA, id viewB, void *context)
         NSFont *font = [NSFont fontWithName:@"Lucida Grande" size:12];
         [realOutlineView setRowHeight:[font defaultLineHeightForFont]];
         [realOutlineView setIntercellSpacing:NSMakeSize (6.0, 4.0)];
+		[realOutlineView setBackgroundColor:[NSColor colorWithCalibratedRed:0.98f green:0.97f blue:1.0f alpha:1]];
         [realOutlineView reloadData];
     }
     [btns release];
